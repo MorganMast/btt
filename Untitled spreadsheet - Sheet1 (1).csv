@@ -83,7 +83,6 @@ Norwegian_Buhund,Senior,Medium,Female,Kids_Other_Dogs,Yes,Medium,Brindle,7,Rescu
 Norwegian_Elkhound,Adult,Medium,Male,Kids_Other_Dogs,Yes,Medium,White_or_Cream,30+,Shelter,,
 Norwegian_Lundehund,Puppy,Small,Female,Kids_Other_Dogs,Yes,Short,Brown_or_Chocolate,1,Rescue,,
 Norwich_Terrier,Young,Small,Male,Kids_Other_Dogs,Yes,Wire,Golden,14,Short,Black,Shelter
-Breed,Age,Size,Gender,Good_With,House_Trained,Coat_Length,Color,Days_Up_For_Adoption,Shelter_or_Rescue,,
 Mixed_Breed,Puppy,Medium,Female,Kids_Other_Dogs,Yes,Medium,Golden,30+,Rescue,,
 Mixed_Breed,Young,Extra_Large,Female,Kids_Other_Dogs,Yes,Long,Golden,14,Shelter,,
 Mixed_Breed,Adult,Small,Male,Kids_Other_Dogs,Yes,Short,Black,30+,Rescue,,
@@ -94,7 +93,6 @@ Mixed_Breed,Adult,Medium,Male,Kids_Other_Dogs,Yes,Medium,Brown_or_Chocolate,14,R
 Mixed_Breed,Puppy,Small,Female,Kids_Other_Dogs,Yes,Short,White_or_Cream,14,Shelter,,
 Mixed_Breed,Young,Medium,Male,Kids_Other_Dogs,Yes,Short,Golden,1,Rescue,,
 Mixed_Breed,Adult,Large,Female,Kids_Other_Dogs,Yes,Long,White_or_Cream,7,Shelter,,
-Breed,Age,Size,Gender,Good_With,House_Trained,Coat_Length,Color,Days_Up_For_Adoption,Shelter_or_Rescue,,
 Mixed_Breed,Puppy,Small,Female,Kids_Other_Dogs,Yes,Short,White_or_Cream,30+,Shelter,,
 Mixed_Breed,Young,Medium,Male,Kids_Other_Dogs,Yes,Medium,Brown_or_Chocolate,14,Rescue,,
 Mixed_Breed,Adult,Medium,Female,Kids_Other_Dogs,Yes,Short,Black,7,Shelter,,
