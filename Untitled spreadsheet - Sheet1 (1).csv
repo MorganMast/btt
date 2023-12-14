@@ -1,4 +1,4 @@
-Breed,Breed,Breed,Breed,Breed,Breed,Coat_Length,Color,Days_Up_For_Adoption,Shelter_or_Rescue,,
+Breed,Age,Size,Gender,Temperment,Neutered,Coat_Length,Color,Days_Up_For_Adoption,Shelter_or_Rescue,,
 Afghan_Hound,Puppy,Medium,Female,Kids_Other_Dogs,Yes,Long,Yellow_or_Tan_or_Blond_or_Fawn,30+,Rescue,,
 Akita,Adult,Large,Male,Kids,No,Medium,White_or_Cream,7,Shelter,,
 American_Bulldog,Young,Extra_Large,Female,Kids_Other_Dogs_Cats,Yes,Short,Golden,14,Rescue,,
